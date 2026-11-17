@@ -7,8 +7,8 @@ from pathlib import Path
 
 from modules.terminal_ui import banner, ask, info, warn, success
 from modules.wifi_scanner import scan_wifi, security_label
-from modules.fake_hacker import run_simulation
-from modules.prank_link import choose_prank, open_link
+from modules.hack import run_simulation
+from modules.pass_link import choose_prank, open_link
 
 CONFIG_PATH = Path(__file__).with_name("config.json")
 
