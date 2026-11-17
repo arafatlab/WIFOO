@@ -1,0 +1,7 @@
+# WIFOO - Python Dependencies
+
+# Wi-Fi scanning via Termux:API
+# Requires Termux:API Android app and termux-api package
+
+colorama>=0.4.6
+requests>=2.31.0
