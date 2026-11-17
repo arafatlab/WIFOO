@@ -1,0 +1,21 @@
+{
+  "open_browser": true,
+  "prank_pages": [
+    {
+      "name": "Prank Page 1",
+      "url": "https://YOUR-SUBDOMAIN.example/page1/"
+    },
+    {
+      "name": "Prank Page 2",
+      "url": "https://YOUR-SUBDOMAIN.example/page2/"
+    },
+    {
+      "name": "Prank Page 3",
+      "url": "https://YOUR-SUBDOMAIN.example/page3/"
+    },
+    {
+      "name": "Prank Page 4",
+      "url": "https://YOUR-SUBDOMAIN.example/page4/"
+    }
+  ]
+}
