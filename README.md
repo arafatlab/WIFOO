@@ -41,7 +41,7 @@ Designed with a powerful terminal interface, interactive network selection, and 
 ## 📲 Installation
 
 ```bash
-git clone 
+git clone https://github.com/arafatlab/WIFOO
 pip install -r requirements.txt
 pkg install termux-api -y
 ```
