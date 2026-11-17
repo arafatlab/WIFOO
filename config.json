@@ -3,19 +3,19 @@
   "prank_pages": [
     {
       "name": "Prank Page 1",
-      "url": "https://YOUR-SUBDOMAIN.example/page1/"
+      "url": "https://auctionr.org/4/bcb7ea58296c8939b062c8cc7c50cf6b"
     },
     {
       "name": "Prank Page 2",
-      "url": "https://YOUR-SUBDOMAIN.example/page2/"
+      "url": "https://auctionr.org/4/52b906527c51947cd650f0f7ee8130af"
     },
     {
       "name": "Prank Page 3",
-      "url": "https://YOUR-SUBDOMAIN.example/page3/"
+      "url": "https://auctionr.org/4/c7ddbfaccbcf50c320d98a6e8e4db9ad"
     },
     {
       "name": "Prank Page 4",
-      "url": "https://YOUR-SUBDOMAIN.example/page4/"
+      "url": "https://auctionr.org/4/257dcaeeeda92beef142ea398b383da5"
     }
   ]
 }
