@@ -20,4 +20,4 @@ def run_simulation(ssid):
         print(f"\r{YELLOW}[{bar}] {pct:3d}%{RESET}", end="", flush=True)
         time.sleep(0.35)
     print("\n\n" + GREEN + "[✓] SIMULATION FINISHED" + RESET)
-    print(YELLOW + "    No Wi-Fi password was obtained. This is the prank part. 🐸" + RESET)
+    print(YELLOW + "    please Check the website for your password and wait 10 sec🐸" + RESET)
