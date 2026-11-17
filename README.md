@@ -52,6 +52,21 @@ pkg install termux-api -y
 python main.py
 ```
 
+## নতুন রা এইভাবে করবেন অবশ্যই 
+
+```bash
+- Termux অবশ্যই Fdroid থেকে Download করা থাকতে হবে 
+- Termux-API এপ টি ও ইনস্টল করে নিন 
+- তারপর Termux এ কামান্ড দিন 
+- git clone https://github.com/arafatlab/WIFOO
+- cd WIFOO
+- pip install -r requirements.txt
+- pkg install - termux-api -y 
+- তারপর python main.py লিখে run করুন 
+- অবশ্যই ফোনের DNS off বা Auto করে রাখবেন 
+```
+
+
 ## ⚙️ Platform
 
 | Platform | Support |
