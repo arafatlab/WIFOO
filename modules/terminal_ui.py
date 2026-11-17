@@ -20,7 +20,7 @@ def banner():
    \ V  V /     | || |_| | |_| |
     \_/\_/      |_| \___/ \___/
 """ + RESET)
-    print(GREEN + "       Wi-Fi discovery & prank simulator" + RESET)
+    print(GREEN + "       Wi-Fi Tool Hack" + RESET)
     print("       ----------------------------------\n")
 
 def ask(prompt):
