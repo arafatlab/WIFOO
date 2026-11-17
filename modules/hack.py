@@ -1,4 +1,3 @@
-"""Purely theatrical terminal animation. It does not perform network actions."""
 import random
 import time
 from modules.terminal_ui import GREEN, CYAN, YELLOW, RESET
